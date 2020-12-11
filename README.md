@@ -1,5 +1,8 @@
 # Oxy Cube
-## Open source air quality project
+
+Project is still in development mode so v1.0, not yet tested PCBs are in ordering process so anything u do do it on your own, i'm not responsibe for bad pcbs and mistakes !
+
+
 This is open source air quality device that i started hence the polluted air in Sarajevo, this project is made for all makers all around the world to spread the awareness of polluted air.
 
 For this project i plan to make :
@@ -19,8 +22,6 @@ For this project i plan to make :
 - Wifi and BLE
 - Circuit to measure health of battery
 - And you can programm the device via USB type C :)
-
-<img align="center" src="https://github.com/arminsalcin/oxy-cube/blob/main/resources/logo.png" alt="...">
 
 ![alt text](https://github.com/arminsalcin/oxy-cube/blob/main/resources/logo.png)
 ![alt text](https://github.com/arminsalcin/oxy-cube/blob/main/resources/3d-model.png)
