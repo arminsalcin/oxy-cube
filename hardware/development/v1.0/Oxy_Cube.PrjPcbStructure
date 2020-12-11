@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=oxy_scheme.SchDoc
+Record=SheetSymbol|SourceDocument=oxy_scheme.SchDoc|Designator=U_ESP32|SchDesignator=U_ESP32|FileName=ESP32.SchDoc|SymbolType=Normal|RawFileName=ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=oxy_scheme.SchDoc|Designator=U_LEDS|SchDesignator=U_LEDS|FileName=LEDS.SchDoc|SymbolType=Normal|RawFileName=LEDS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=oxy_scheme.SchDoc|Designator=U_POWER|SchDesignator=U_POWER|FileName=POWER.SchDoc|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=oxy_scheme.SchDoc|Designator=U_PROGRAMMER|SchDesignator=U_PROGRAMMER|FileName=PROGRAMMER.SchDoc|SymbolType=Normal|RawFileName=PROGRAMMER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=oxy_scheme.SchDoc|Designator=U_SENSORS|SchDesignator=U_SENSORS|FileName=SENSORS.SchDoc|SymbolType=Normal|RawFileName=SENSORS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

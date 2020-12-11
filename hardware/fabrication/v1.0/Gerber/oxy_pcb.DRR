@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: oxy_pcb.PcbDoc   11.12.2020  23:13:25
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : oxy_pcb-RoundHoles.TXT
+ASCII SlotHoles File : oxy_pcb-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             112       PTH        378.57mm (14.90inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.14mm (1.50inch)
+T3      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              118
+
+Total Processing Time (hh:mm:ss) : 00:00:00
