@@ -21,6 +21,7 @@ For this project i plan to make :
 - Battery charging circuit
 - Wifi and BLE
 - Circuit to measure health of battery
+- Dimensions is 47x36mm, pretty small !
 - And you can programm the device via USB type C :)
 
 
