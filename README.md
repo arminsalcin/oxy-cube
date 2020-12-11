@@ -23,5 +23,11 @@ For this project i plan to make :
 - Circuit to measure health of battery
 - And you can programm the device via USB type C :)
 
+
+## Here are some photos the logo of our open source project and the 3D view of the v1.0 :D
+
 ![alt text](https://github.com/arminsalcin/oxy-cube/blob/main/resources/logo.png)
 ![alt text](https://github.com/arminsalcin/oxy-cube/blob/main/resources/3d-model.png)
+
+## If you want to contribute
+You can add me on Instagram @salca16 and contribute i don't want to open discord yet.
