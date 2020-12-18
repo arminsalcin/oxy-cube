@@ -25,10 +25,11 @@ For this project i plan to make :
 - And you can programm the device via USB type C :)
 
 ## Future
-- add power switch on usb so when charging device it will work via usb power.
+- Add power switch on usb so when charging device it will work via usb power.
 - High side mosfet for ws2812 as they draw current while being off
 - Add CO electrochemical sensor (this need testing electronic first)
 - Make it smaller use pmsa003, because why not :)
+- Use sk6812 side led to save some space and to have side emitting leds
 
 
 ## Here are some photos the logo of our open source project and the 3D view of the v1.0 :D
